@@ -1,0 +1,8 @@
+c:\users\trang\documents\visual studio 2015\Projects\Digital Clock dung Timer\Digital Clock dung Timer\bin\Debug\Digital Clock dung Timer.exe.config
+c:\users\trang\documents\visual studio 2015\Projects\Digital Clock dung Timer\Digital Clock dung Timer\bin\Debug\Digital Clock dung Timer.exe
+c:\users\trang\documents\visual studio 2015\Projects\Digital Clock dung Timer\Digital Clock dung Timer\bin\Debug\Digital Clock dung Timer.pdb
+c:\users\trang\documents\visual studio 2015\Projects\Digital Clock dung Timer\Digital Clock dung Timer\obj\Debug\Digital_Clock_dung_Timer.Form1.resources
+c:\users\trang\documents\visual studio 2015\Projects\Digital Clock dung Timer\Digital Clock dung Timer\obj\Debug\Digital_Clock_dung_Timer.Properties.Resources.resources
+c:\users\trang\documents\visual studio 2015\Projects\Digital Clock dung Timer\Digital Clock dung Timer\obj\Debug\Digital Clock dung Timer.csproj.GenerateResource.Cache
+c:\users\trang\documents\visual studio 2015\Projects\Digital Clock dung Timer\Digital Clock dung Timer\obj\Debug\Digital Clock dung Timer.exe
+c:\users\trang\documents\visual studio 2015\Projects\Digital Clock dung Timer\Digital Clock dung Timer\obj\Debug\Digital Clock dung Timer.pdb
